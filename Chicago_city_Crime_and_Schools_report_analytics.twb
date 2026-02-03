@@ -1392,7 +1392,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>566</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Name of School</remote-name>
@@ -1407,7 +1406,6 @@
               <approx-count>566</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Elementary, Middle, or High School</remote-name>
@@ -1422,7 +1420,6 @@
               <approx-count>3</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Street Address</remote-name>
@@ -1437,7 +1434,6 @@
               <approx-count>550</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>City</remote-name>
@@ -1452,7 +1448,6 @@
               <approx-count>1</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>State</remote-name>
@@ -1467,7 +1462,6 @@
               <approx-count>1</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>ZIP Code</remote-name>
@@ -1481,7 +1475,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>51</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Phone Number</remote-name>
@@ -1496,7 +1489,6 @@
               <approx-count>564</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Link</remote-name>
@@ -1511,7 +1503,6 @@
               <approx-count>566</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Network Manager</remote-name>
@@ -1526,7 +1517,6 @@
               <approx-count>20</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Collaborative Name</remote-name>
@@ -1541,7 +1531,6 @@
               <approx-count>5</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Adequate Yearly Progress Made?</remote-name>
@@ -1556,7 +1545,6 @@
               <approx-count>3</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Track Schedule</remote-name>
@@ -1571,7 +1559,6 @@
               <approx-count>3</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>CPS Performance Policy Status</remote-name>
@@ -1586,7 +1573,6 @@
               <approx-count>4</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>CPS Performance Policy Level</remote-name>
@@ -1601,7 +1587,6 @@
               <approx-count>5</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Healthy Schools Certified?</remote-name>
@@ -1616,7 +1601,6 @@
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Safety Icon</remote-name>
@@ -1631,7 +1615,6 @@
               <approx-count>6</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Safety Score</remote-name>
@@ -1645,7 +1628,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>86</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Family Involvement Icon</remote-name>
@@ -1660,7 +1642,6 @@
               <approx-count>6</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Family Involvement Score</remote-name>
@@ -1675,7 +1656,6 @@
               <approx-count>72</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Environment Icon</remote-name>
@@ -1690,7 +1670,6 @@
               <approx-count>6</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Environment Score</remote-name>
@@ -1704,7 +1683,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>80</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Instruction Icon</remote-name>
@@ -1719,7 +1697,6 @@
               <approx-count>6</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Instruction Score</remote-name>
@@ -1733,7 +1710,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>83</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Leaders Icon</remote-name>
@@ -1748,7 +1724,6 @@
               <approx-count>6</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Leaders Score</remote-name>
@@ -1763,7 +1738,6 @@
               <approx-count>79</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Teachers Icon</remote-name>
@@ -1778,7 +1752,6 @@
               <approx-count>6</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Teachers Score</remote-name>
@@ -1793,7 +1766,6 @@
               <approx-count>77</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Parent Engagement Icon</remote-name>
@@ -1808,7 +1780,6 @@
               <approx-count>4</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Parent Engagement Score</remote-name>
@@ -1823,7 +1794,6 @@
               <approx-count>32</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Parent Environment Icon</remote-name>
@@ -1838,7 +1808,6 @@
               <approx-count>4</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Parent Environment Score</remote-name>
@@ -1853,7 +1822,6 @@
               <approx-count>33</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Average Student Attendance</remote-name>
@@ -1867,7 +1835,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>149</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Rate of Misconducts (per 100 students)</remote-name>
@@ -1881,7 +1848,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>323</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Average Teacher Attendance</remote-name>
@@ -1895,7 +1861,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>55</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Individualized Education Program Compliance Rate</remote-name>
@@ -1909,7 +1874,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>69</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Pk-2 Literacy %</remote-name>
@@ -1924,7 +1888,6 @@
               <approx-count>292</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Pk-2 Math %</remote-name>
@@ -1939,7 +1902,6 @@
               <approx-count>264</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Gr3-5 Grade Level Math %</remote-name>
@@ -1954,7 +1916,6 @@
               <approx-count>314</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Gr3-5 Grade Level Read %</remote-name>
@@ -1969,7 +1930,6 @@
               <approx-count>313</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Gr3-5 Keep Pace Read %</remote-name>
@@ -1984,7 +1944,6 @@
               <approx-count>256</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Gr3-5 Keep Pace Math %</remote-name>
@@ -1999,7 +1958,6 @@
               <approx-count>274</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Gr6-8 Grade Level Math %</remote-name>
@@ -2014,7 +1972,6 @@
               <approx-count>313</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Gr6-8 Grade Level Read %</remote-name>
@@ -2029,7 +1986,6 @@
               <approx-count>313</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Gr6-8 Keep Pace Math%</remote-name>
@@ -2044,7 +2000,6 @@
               <approx-count>287</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Gr6-8 Keep Pace Read %</remote-name>
@@ -2059,7 +2014,6 @@
               <approx-count>256</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Gr-8 Explore Math %</remote-name>
@@ -2074,7 +2028,6 @@
               <approx-count>223</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Gr-8 Explore Read %</remote-name>
@@ -2089,7 +2042,6 @@
               <approx-count>262</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>ISAT Exceeding Math %</remote-name>
@@ -2103,7 +2055,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>288</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>ISAT Exceeding Reading %</remote-name>
@@ -2117,7 +2068,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>254</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>ISAT Value Add Math</remote-name>
@@ -2131,7 +2081,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>57</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>ISAT Value Add Read</remote-name>
@@ -2145,7 +2094,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>60</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>ISAT Value Add Color Math</remote-name>
@@ -2160,7 +2108,6 @@
               <approx-count>4</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>ISAT Value Add Color Read</remote-name>
@@ -2175,7 +2122,6 @@
               <approx-count>4</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Students Taking  Algebra %</remote-name>
@@ -2190,7 +2136,6 @@
               <approx-count>133</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Students Passing  Algebra %</remote-name>
@@ -2205,7 +2150,6 @@
               <approx-count>94</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>9th Grade EXPLORE (2009)</remote-name>
@@ -2220,7 +2164,6 @@
               <approx-count>45</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>9th Grade EXPLORE (2010)</remote-name>
@@ -2235,7 +2178,6 @@
               <approx-count>51</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>10th Grade PLAN (2009)</remote-name>
@@ -2250,7 +2192,6 @@
               <approx-count>45</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>10th Grade PLAN (2010)</remote-name>
@@ -2265,7 +2206,6 @@
               <approx-count>49</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Net Change EXPLORE and PLAN</remote-name>
@@ -2280,7 +2220,6 @@
               <approx-count>16</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>11th Grade Average ACT (2011)</remote-name>
@@ -2295,7 +2234,6 @@
               <approx-count>53</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Net Change PLAN and ACT</remote-name>
@@ -2310,7 +2248,6 @@
               <approx-count>30</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>College Eligibility %</remote-name>
@@ -2325,7 +2262,6 @@
               <approx-count>78</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Graduation Rate %</remote-name>
@@ -2340,7 +2276,6 @@
               <approx-count>75</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>College Enrollment Rate %</remote-name>
@@ -2355,7 +2290,6 @@
               <approx-count>70</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>College Enrollment (number of students)</remote-name>
@@ -2369,7 +2303,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>434</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>General Services Route</remote-name>
@@ -2383,7 +2316,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>20</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Freshman on Track Rate %</remote-name>
@@ -2398,7 +2330,6 @@
               <approx-count>79</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>RCDTS Code</remote-name>
@@ -2412,7 +2343,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>1</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>X_COORDINATE</remote-name>
@@ -2426,7 +2356,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>550</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Y_COORDINATE</remote-name>
@@ -2440,7 +2369,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>550</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Latitude</remote-name>
@@ -2454,7 +2382,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>549</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Longitude</remote-name>
@@ -2468,7 +2395,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>550</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Community Area Number</remote-name>
@@ -2482,7 +2408,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>77</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Community Area Name</remote-name>
@@ -2497,7 +2422,6 @@
               <approx-count>77</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RIN_S2' />
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Ward</remote-name>
@@ -2511,7 +2435,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>50</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Police District</remote-name>
@@ -2525,7 +2448,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>23</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[Chicago!Public!Schools!-!Progre_0E8CFF959B0849329BF1B6FB20085EF3]</object-id>
             </metadata-record>
           </metadata-records>
         </connection>
@@ -3341,8 +3263,393 @@
         </objects>
       </object-graph>
     </datasource>
+    <datasource caption='Chicago_Census_Data (Chicago_Census_Data_XLS.)' inline='true' name='federated.0e0u0iv1d1efo0193316f1sbksis' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Chicago_Census_Data_XLS.' name='excel-direct.0rn1ubi0jeipnn112pux80hdubpb'>
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='D:/CSV-Files/Chicago_Census_Data_XLS..xlsx' interpretationMode='0' password='' server='' validate='no' />
+          </named-connection>
+        </named-connections>
+        <relation connection='excel-direct.0rn1ubi0jeipnn112pux80hdubpb' name='Chicago_Census_Data' table='[Chicago_Census_Data$]' type='table'>
+          <columns gridOrigin='A1:I79:no:A1:I79:0' header='yes' outcome='6'>
+            <column datatype='integer' name='Community Area Number' ordinal='0' />
+            <column datatype='string' name='COMMUNITY AREA NAME' ordinal='1' />
+            <column datatype='real' name='PERCENT OF HOUSING CROWDED' ordinal='2' />
+            <column datatype='real' name='PERCENT HOUSEHOLDS BELOW POVERTY' ordinal='3' />
+            <column datatype='real' name='PERCENT AGED 16+ UNEMPLOYED' ordinal='4' />
+            <column datatype='real' name='PERCENT AGED 25+ WITHOUT HIGH SCHOOL DIPLOMA' ordinal='5' />
+            <column datatype='real' name='PERCENT AGED UNDER 18 OR OVER 64' ordinal='6' />
+            <column datatype='integer' name='PER CAPITA INCOME' ordinal='7' />
+            <column datatype='integer' name='HARDSHIP INDEX' ordinal='8' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Chicago_Census_Data]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>0</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:I79:no:A1:I79:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>6</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Community Area Number</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Community Area Number]</local-name>
+            <parent-name>[Chicago_Census_Data]</parent-name>
+            <remote-alias>Community Area Number</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <object-id>[Chicago!Census!Data_70E3A4DB7D444BA0A6A25BCF9B9BC7C1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>COMMUNITY AREA NAME</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[COMMUNITY AREA NAME]</local-name>
+            <parent-name>[Chicago_Census_Data]</parent-name>
+            <remote-alias>COMMUNITY AREA NAME</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RIN_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <object-id>[Chicago!Census!Data_70E3A4DB7D444BA0A6A25BCF9B9BC7C1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PERCENT OF HOUSING CROWDED</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[PERCENT OF HOUSING CROWDED]</local-name>
+            <parent-name>[Chicago_Census_Data]</parent-name>
+            <remote-alias>PERCENT OF HOUSING CROWDED</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <object-id>[Chicago!Census!Data_70E3A4DB7D444BA0A6A25BCF9B9BC7C1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PERCENT HOUSEHOLDS BELOW POVERTY</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[PERCENT HOUSEHOLDS BELOW POVERTY]</local-name>
+            <parent-name>[Chicago_Census_Data]</parent-name>
+            <remote-alias>PERCENT HOUSEHOLDS BELOW POVERTY</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <object-id>[Chicago!Census!Data_70E3A4DB7D444BA0A6A25BCF9B9BC7C1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PERCENT AGED 16+ UNEMPLOYED</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[PERCENT AGED 16+ UNEMPLOYED]</local-name>
+            <parent-name>[Chicago_Census_Data]</parent-name>
+            <remote-alias>PERCENT AGED 16+ UNEMPLOYED</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <object-id>[Chicago!Census!Data_70E3A4DB7D444BA0A6A25BCF9B9BC7C1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PERCENT AGED 25+ WITHOUT HIGH SCHOOL DIPLOMA</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[PERCENT AGED 25+ WITHOUT HIGH SCHOOL DIPLOMA]</local-name>
+            <parent-name>[Chicago_Census_Data]</parent-name>
+            <remote-alias>PERCENT AGED 25+ WITHOUT HIGH SCHOOL DIPLOMA</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <object-id>[Chicago!Census!Data_70E3A4DB7D444BA0A6A25BCF9B9BC7C1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PERCENT AGED UNDER 18 OR OVER 64</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[PERCENT AGED UNDER 18 OR OVER 64]</local-name>
+            <parent-name>[Chicago_Census_Data]</parent-name>
+            <remote-alias>PERCENT AGED UNDER 18 OR OVER 64</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <object-id>[Chicago!Census!Data_70E3A4DB7D444BA0A6A25BCF9B9BC7C1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PER CAPITA INCOME</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[PER CAPITA INCOME]</local-name>
+            <parent-name>[Chicago_Census_Data]</parent-name>
+            <remote-alias>PER CAPITA INCOME</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <object-id>[Chicago!Census!Data_70E3A4DB7D444BA0A6A25BCF9B9BC7C1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>HARDSHIP INDEX</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[HARDSHIP INDEX]</local-name>
+            <parent-name>[Chicago_Census_Data]</parent-name>
+            <remote-alias>HARDSHIP INDEX</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <object-id>[Chicago!Census!Data_70E3A4DB7D444BA0A6A25BCF9B9BC7C1]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Community Area Name' datatype='string' name='[COMMUNITY AREA NAME]' role='dimension' type='nominal' />
+      <column caption='Hardship Index' datatype='integer' name='[HARDSHIP INDEX]' role='measure' type='quantitative' />
+      <column caption='Per Capita Income' datatype='integer' name='[PER CAPITA INCOME]' role='measure' type='quantitative' />
+      <column caption='Percent Aged 16+ Unemployed' datatype='real' name='[PERCENT AGED 16+ UNEMPLOYED]' role='measure' type='quantitative' />
+      <column caption='Percent Aged 25+ Without High School Diploma' datatype='real' name='[PERCENT AGED 25+ WITHOUT HIGH SCHOOL DIPLOMA]' role='measure' type='quantitative' />
+      <column caption='Percent Aged Under 18 Or Over 64' datatype='real' name='[PERCENT AGED UNDER 18 OR OVER 64]' role='measure' type='quantitative' />
+      <column caption='Percent Households Below Poverty' datatype='real' name='[PERCENT HOUSEHOLDS BELOW POVERTY]' role='measure' type='quantitative' />
+      <column caption='Percent Of Housing Crowded' datatype='real' name='[PERCENT OF HOUSING CROWDED]' role='measure' type='quantitative' />
+      <column caption='Chicago_Census_Data' datatype='table' name='[__tableau_internal_object_id__].[Chicago!Census!Data_70E3A4DB7D444BA0A6A25BCF9B9BC7C1]' role='measure' type='quantitative' />
+      <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
+        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='C:/Users/shubh/AppData/Local/Temp/TableauTemp/#TableauTemp_1pbnm1k12d9ifx18lwzz807ajgan.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='02/03/2026 05:09:18 AM' username='tableau_internal_user'>
+          <relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>Community Area Number</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Community Area Number]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Community Area Number</remote-alias>
+              <ordinal>0</ordinal>
+              <family>Chicago_Census_Data</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>78</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Chicago!Census!Data_70E3A4DB7D444BA0A6A25BCF9B9BC7C1]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>COMMUNITY AREA NAME</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[COMMUNITY AREA NAME]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>COMMUNITY AREA NAME</remote-alias>
+              <ordinal>1</ordinal>
+              <family>Chicago_Census_Data</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>78</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='1' name='LEN_RIN_S2' />
+              <object-id>[Chicago!Census!Data_70E3A4DB7D444BA0A6A25BCF9B9BC7C1]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>PERCENT OF HOUSING CROWDED</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[PERCENT OF HOUSING CROWDED]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>PERCENT OF HOUSING CROWDED</remote-alias>
+              <ordinal>2</ordinal>
+              <family>Chicago_Census_Data</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>56</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Chicago!Census!Data_70E3A4DB7D444BA0A6A25BCF9B9BC7C1]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>PERCENT HOUSEHOLDS BELOW POVERTY</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[PERCENT HOUSEHOLDS BELOW POVERTY]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>PERCENT HOUSEHOLDS BELOW POVERTY</remote-alias>
+              <ordinal>3</ordinal>
+              <family>Chicago_Census_Data</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>68</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Chicago!Census!Data_70E3A4DB7D444BA0A6A25BCF9B9BC7C1]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>PERCENT AGED 16+ UNEMPLOYED</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[PERCENT AGED 16+ UNEMPLOYED]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>PERCENT AGED 16+ UNEMPLOYED</remote-alias>
+              <ordinal>4</ordinal>
+              <family>Chicago_Census_Data</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>67</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Chicago!Census!Data_70E3A4DB7D444BA0A6A25BCF9B9BC7C1]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>PERCENT AGED 25+ WITHOUT HIGH SCHOOL DIPLOMA</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[PERCENT AGED 25+ WITHOUT HIGH SCHOOL DIPLOMA]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>PERCENT AGED 25+ WITHOUT HIGH SCHOOL DIPLOMA</remote-alias>
+              <ordinal>5</ordinal>
+              <family>Chicago_Census_Data</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>70</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Chicago!Census!Data_70E3A4DB7D444BA0A6A25BCF9B9BC7C1]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>PERCENT AGED UNDER 18 OR OVER 64</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[PERCENT AGED UNDER 18 OR OVER 64]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>PERCENT AGED UNDER 18 OR OVER 64</remote-alias>
+              <ordinal>6</ordinal>
+              <family>Chicago_Census_Data</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>67</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Chicago!Census!Data_70E3A4DB7D444BA0A6A25BCF9B9BC7C1]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>PER CAPITA INCOME</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[PER CAPITA INCOME]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>PER CAPITA INCOME</remote-alias>
+              <ordinal>7</ordinal>
+              <family>Chicago_Census_Data</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>78</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Chicago!Census!Data_70E3A4DB7D444BA0A6A25BCF9B9BC7C1]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>HARDSHIP INDEX</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[HARDSHIP INDEX]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>HARDSHIP INDEX</remote-alias>
+              <ordinal>8</ordinal>
+              <family>Chicago_Census_Data</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>78</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Chicago!Census!Data_70E3A4DB7D444BA0A6A25BCF9B9BC7C1]</object-id>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;India&quot;' />
+      </semantic-values>
+      <object-graph>
+        <objects>
+          <object caption='Chicago_Census_Data' id='Chicago!Census!Data_70E3A4DB7D444BA0A6A25BCF9B9BC7C1'>
+            <properties context=''>
+              <relation connection='excel-direct.0rn1ubi0jeipnn112pux80hdubpb' name='Chicago_Census_Data' table='[Chicago_Census_Data$]' type='table'>
+                <columns gridOrigin='A1:I79:no:A1:I79:0' header='yes' outcome='6'>
+                  <column datatype='integer' name='Community Area Number' ordinal='0' />
+                  <column datatype='string' name='COMMUNITY AREA NAME' ordinal='1' />
+                  <column datatype='real' name='PERCENT OF HOUSING CROWDED' ordinal='2' />
+                  <column datatype='real' name='PERCENT HOUSEHOLDS BELOW POVERTY' ordinal='3' />
+                  <column datatype='real' name='PERCENT AGED 16+ UNEMPLOYED' ordinal='4' />
+                  <column datatype='real' name='PERCENT AGED 25+ WITHOUT HIGH SCHOOL DIPLOMA' ordinal='5' />
+                  <column datatype='real' name='PERCENT AGED UNDER 18 OR OVER 64' ordinal='6' />
+                  <column datatype='integer' name='PER CAPITA INCOME' ordinal='7' />
+                  <column datatype='integer' name='HARDSHIP INDEX' ordinal='8' />
+                </columns>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
   </datasources>
   <worksheets>
+    <worksheet name='Average Household Poverty of each community area'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Chicago_Census_Data (Chicago_Census_Data_XLS.)' name='federated.0e0u0iv1d1efo0193316f1sbksis' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0e0u0iv1d1efo0193316f1sbksis'>
+            <column caption='Community Area Name' datatype='string' name='[COMMUNITY AREA NAME]' role='dimension' type='nominal' />
+            <column caption='Percent Households Below Poverty' datatype='real' name='[PERCENT HOUSEHOLDS BELOW POVERTY]' role='measure' type='quantitative' />
+            <column-instance column='[PERCENT HOUSEHOLDS BELOW POVERTY]' derivation='Avg' name='[avg:PERCENT HOUSEHOLDS BELOW POVERTY:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[COMMUNITY AREA NAME]' derivation='None' name='[none:COMMUNITY AREA NAME:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0e0u0iv1d1efo0193316f1sbksis].[none:COMMUNITY AREA NAME:nk]'>
+            <groupfilter function='member' level='[none:COMMUNITY AREA NAME:nk]' member='&quot;Roseland&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.0e0u0iv1d1efo0193316f1sbksis].[none:COMMUNITY AREA NAME:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows>[federated.0e0u0iv1d1efo0193316f1sbksis].[avg:PERCENT HOUSEHOLDS BELOW POVERTY:qk]</rows>
+        <cols>[federated.0e0u0iv1d1efo0193316f1sbksis].[none:COMMUNITY AREA NAME:nk]</cols>
+      </table>
+      <simple-id uuid='{0B5A8BCD-5ABA-4DA3-A212-F66F6E6B2F19}' />
+    </worksheet>
     <worksheet name='Average Student Attendance Community wise'>
       <table>
         <view>
@@ -3358,10 +3665,10 @@
             <column-instance column='[Community Area Number]' derivation='None' name='[none:Community Area Number:nk]' pivot='key' type='nominal' />
           </datasource-dependencies>
           <filter class='categorical' column='[federated.1xe0xkx1itvj5c1dnvecs02nndkm].[none:Community Area Name:nk]'>
-            <groupfilter function='level-members' level='[none:Community Area Name:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+            <groupfilter function='member' level='[none:Community Area Name:nk]' member='&quot;BEVERLY&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
           <filter class='categorical' column='[federated.1xe0xkx1itvj5c1dnvecs02nndkm].[none:Community Area Number:nk]'>
-            <groupfilter function='level-members' level='[none:Community Area Number:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+            <groupfilter function='member' level='[none:Community Area Number:nk]' member='&quot;72&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
           <shelf-sorts>
             <shelf-sort-v2 dimension-to-sort='[federated.1xe0xkx1itvj5c1dnvecs02nndkm].[none:Community Area Name:nk]' direction='ASC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.1xe0xkx1itvj5c1dnvecs02nndkm].[avg:Average Student Attendance:vtavg:qk]' shelf='columns' />
@@ -3429,12 +3736,12 @@
           </datasource-dependencies>
           <filter class='quantitative' column='[federated.03auapj0x30byc1a6qfp219qn4ke].[cnt:PRIMARY_TYPE:qk]' included-values='in-range' />
           <filter class='categorical' column='[federated.03auapj0x30byc1a6qfp219qn4ke].[none:COMMUNITY_AREA_NUMBER:nk]'>
-            <groupfilter function='level-members' level='[none:COMMUNITY_AREA_NUMBER:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+            <groupfilter function='member' level='[none:COMMUNITY_AREA_NUMBER:nk]' member='&quot;72&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
           <filter class='categorical' column='[federated.03auapj0x30byc1a6qfp219qn4ke].[none:PRIMARY_TYPE:nk]'>
             <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
-              <groupfilter function='member' level='[none:PRIMARY_TYPE:nk]' member='&quot;BATTERY&quot;' />
-              <groupfilter function='member' level='[none:PRIMARY_TYPE:nk]' member='&quot;INTERFERENCE WITH PUBLIC OFFICER&quot;' />
+              <groupfilter function='member' level='[none:PRIMARY_TYPE:nk]' member='&quot;ASSAULT&quot;' />
+              <groupfilter function='member' level='[none:PRIMARY_TYPE:nk]' member='&quot;THEFT&quot;' />
             </groupfilter>
           </filter>
           <slices>
@@ -3470,8 +3777,111 @@
       </table>
       <simple-id uuid='{D3F2F4D5-D7DD-4329-8BB2-F02853351C41}' />
     </worksheet>
+    <worksheet name='Hardship Index to Community Area'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Chicago_Census_Data (Chicago_Census_Data_XLS.)' name='federated.0e0u0iv1d1efo0193316f1sbksis' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0e0u0iv1d1efo0193316f1sbksis'>
+            <column caption='Community Area Name' datatype='string' name='[COMMUNITY AREA NAME]' role='dimension' type='nominal' />
+            <column datatype='integer' name='[Community Area Number]' role='measure' type='quantitative' />
+            <column caption='Hardship Index' datatype='integer' name='[HARDSHIP INDEX]' role='measure' type='quantitative' />
+            <column-instance column='[COMMUNITY AREA NAME]' derivation='None' name='[none:COMMUNITY AREA NAME:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Community Area Number]' derivation='Sum' name='[sum:Community Area Number:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[HARDSHIP INDEX]' derivation='Sum' name='[sum:HARDSHIP INDEX:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0e0u0iv1d1efo0193316f1sbksis].[none:COMMUNITY AREA NAME:nk]'>
+            <groupfilter function='member' level='[none:COMMUNITY AREA NAME:nk]' member='&quot;Roseland&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.0e0u0iv1d1efo0193316f1sbksis].[none:COMMUNITY AREA NAME:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='width' field='[federated.0e0u0iv1d1efo0193316f1sbksis].[sum:HARDSHIP INDEX:qk]' value='60' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <style>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='861' />
+                <format attr='maxwidth' value='861' />
+                <format attr='minheight' value='358' />
+                <format attr='maxheight' value='358' />
+                <format attr='aspect' value='0' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0e0u0iv1d1efo0193316f1sbksis].[sum:HARDSHIP INDEX:qk]</rows>
+        <cols>[federated.0e0u0iv1d1efo0193316f1sbksis].[sum:Community Area Number:qk]</cols>
+      </table>
+      <simple-id uuid='{FC304E88-71A1-452D-A1B2-68680679DD2E}' />
+    </worksheet>
+    <worksheet name='Per Capita Income of Each Community'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Chicago_Census_Data (Chicago_Census_Data_XLS.)' name='federated.0e0u0iv1d1efo0193316f1sbksis' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0e0u0iv1d1efo0193316f1sbksis'>
+            <column caption='Community Area Name' datatype='string' name='[COMMUNITY AREA NAME]' role='dimension' type='nominal' />
+            <column datatype='integer' name='[Community Area Number]' role='measure' type='quantitative' />
+            <column caption='Per Capita Income' datatype='integer' name='[PER CAPITA INCOME]' role='measure' type='quantitative' />
+            <column-instance column='[COMMUNITY AREA NAME]' derivation='None' name='[none:COMMUNITY AREA NAME:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Community Area Number]' derivation='Sum' name='[sum:Community Area Number:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[PER CAPITA INCOME]' derivation='Sum' name='[sum:PER CAPITA INCOME:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0e0u0iv1d1efo0193316f1sbksis].[none:COMMUNITY AREA NAME:nk]'>
+            <groupfilter function='member' level='[none:COMMUNITY AREA NAME:nk]' member='&quot;Roseland&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.0e0u0iv1d1efo0193316f1sbksis].[none:COMMUNITY AREA NAME:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='height' field='[federated.0e0u0iv1d1efo0193316f1sbksis].[sum:Community Area Number:qk]' value='41' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <style>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='777' />
+                <format attr='maxwidth' value='777' />
+                <format attr='minheight' value='358' />
+                <format attr='maxheight' value='358' />
+                <format attr='aspect' value='0' />
+                <format attr='minwidth' value='609' />
+                <format attr='maxwidth' value='609' />
+                <format attr='minheight' value='358' />
+                <format attr='maxheight' value='358' />
+                <format attr='aspect' value='0' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0e0u0iv1d1efo0193316f1sbksis].[sum:PER CAPITA INCOME:qk]</rows>
+        <cols>[federated.0e0u0iv1d1efo0193316f1sbksis].[sum:Community Area Number:qk]</cols>
+      </table>
+      <simple-id uuid='{640CF786-1DB6-419A-B8DD-2870AEF6E09C}' />
+    </worksheet>
   </worksheets>
-  <windows source-height='51'>
+  <windows show-side-pane='false' source-height='72'>
     <window class='worksheet' name='Average Student Attendance Community wise'>
       <cards>
         <edge name='left'>
@@ -3509,7 +3919,7 @@
       </viewpoint>
       <simple-id uuid='{F8BF5862-AC17-4ED2-B14E-9CC98961DB11}' />
     </window>
-    <window class='worksheet' maximized='true' name='Chicago City Crime Analytics'>
+    <window class='worksheet' name='Chicago City Crime Analytics'>
       <cards>
         <edge name='left'>
           <strip size='150'>
@@ -3548,235 +3958,444 @@
       </viewpoint>
       <simple-id uuid='{AA257E25-5889-495B-A0BB-883E355CCE3D}' />
     </window>
+    <window class='worksheet' name='Hardship Index to Community Area'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='222'>
+            <card param='[federated.0e0u0iv1d1efo0193316f1sbksis].[none:COMMUNITY AREA NAME:nk]' type='filter' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0e0u0iv1d1efo0193316f1sbksis].[none:COMMUNITY AREA NAME:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{7041BE72-FF45-43AF-BF1C-BDA789D681DC}' />
+    </window>
+    <window class='worksheet' name='Per Capita Income of Each Community'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card param='[federated.0e0u0iv1d1efo0193316f1sbksis].[none:COMMUNITY AREA NAME:nk]' type='filter' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0e0u0iv1d1efo0193316f1sbksis].[none:COMMUNITY AREA NAME:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{2883FAE6-9D12-43BB-9C6C-2D6524F7D1A0}' />
+    </window>
+    <window class='worksheet' maximized='true' name='Average Household Poverty of each community area'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card param='[federated.0e0u0iv1d1efo0193316f1sbksis].[none:COMMUNITY AREA NAME:nk]' type='filter' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0e0u0iv1d1efo0193316f1sbksis].[none:COMMUNITY AREA NAME:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{5C66DFFC-D616-4187-A760-771FA5B07273}' />
+    </window>
   </windows>
   <thumbnails>
-    <thumbnail height='192' name='Average Student Attendance Community wise' width='192'>
-      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
-      YII=
+    <thumbnail height='192' name='Average Household Poverty of each community area' width='116'>
+      iVBORw0KGgoAAAANSUhEUgAAAHQAAADACAYAAADVwUdEAAAACXBIWXMAAA7DAAAOwwHHb6hk
+      AAAO5klEQVR4nO2deVRUR76AP6VBFmkBcUFQBImogz6MrSbkiOISNMQt+tA4SVzfU5NJ8swy
+      JDouPMckJD5NXJKYBB3M6KhnnFGJ4oKoGDEqiQRNjIjwUFlFwEZabJvX7w9AZXGdLmiL+s7x
+      2PfWvfUr7tf31r1V1XWbmc1mMwppaN7YBVBYFiVUMpRQyVBCJUMJlQwlVDKUUMlQQiVDCZUM
+      JVQylFDJUEIlQwmVDE1jF6DRMBXxW9wWtqZeAVrTa1w4I7q5PSYH5BjLRy2BeTuY079mStM8
+      Q00ZbJg5mqlrfsLxif708ioi9ss4shu7XA+MD8PeeINhPnVTmjXF/tD8zTMI29yb9Vteo0c9
+      p6Sp6DeOHTlHkYMHAUGB+DhWbmQyFFNickJbnsaJ1DzwepL+3VpSdPoEqXnXcfEPRtfRDjCi
+      LyxDo21BfmoS50tcGBTUmpSk85Q4ePFk/264aQCjnsIyDS6ujpVXBqOewnJ73LV2t9OcrvHb
+      iVTyuGO/6vxdXHGsVf4mKPQKW2eHEjdoJ99MaFcn1ZQRw/Tff4PxmeEEcJrdxxz5w1+jmeAN
+      WTG/Z9w3ObRr153e3W5wYvclHLzM0KEfAaYU9p/qQ9ThSII1iSzURZDg5sYTvYJwzvqOrKt+
+      +A1sR/bugzSfsZUNk70hcSG6Nb5s3TAZb6hc3j+E5Mjgys+LfsTLwZ4OvbthStnPqT5RHI4M
+      RkMiC3Vr8N26gcneNcv/eFQZFuUqV4vA06OuTChj/5dfYpq1ib9N9gZMjF0dzvS1iYyLDK7c
+      ZHAkOyODgSxiMseRNv0HlgzWgCkB81PRZGZDsDeALzO+rjrgiUYygiPxBTI8JhCekQV41xO/
+      Fm1eYNnmafgCpgQzT0Vnkk3wPfdsgnWoDTYaMJlM9aRlkX7GnaC+1YdMQ4+ePbmZnnnX+lWj
+      0VR/uOfZYVP9v81DnEMam1v73YpzH5qgUE98/Gw5evwn6ip1oqW2DMP1RiiWhWiCQjUETZ5F
+      x+3zmRt7ESOAyUDmyV+5gicBgbbE/SMBPQB6EvYcplPw0w9ygXw0TBVUABgLOH0255GyuHLk
+      a5Z8fYQrNEmhoPGdzMrPhpO7LJwgnQ7dU8G8EpMBaOgzczEjMxYSGhJGWEgoC/Oms3R6VzEF
+      8X+Sp3M+J1ynQzfkTWIvPVo219IP8s+D6VyjSd7l3okJQ3EJN1q44Frj/r9yvQHH248UojDq
+      KdSD1l2LnQWya+JC5aNJXnJlRgmVDCVUMpqcUIPB0NhFEEqTEyo7SqhkKKGSoYRKhhIqGUqo
+      ZCihkqGESoYSKhlWPqaogvLc0xxITKGgHOy9nmbEoK5oq8dllKWzf+sODme3IHDovxPWty22
+      jVpeK8BsxZR8/4X5g/XHzRevGc1ms9Fc9OsW8/J1qebrZrPZbMo2x36y0nwwvzLtQuxH5tVJ
+      1+6bZ1lZmeBSNy5WfcltEfgyf3y5L15OtoAtrt0H4F9xiRKAcwfJ7D2JgW0r0zqOGIn2SCJ5
+      jVvkRseqhdo7Od0a9QZQdiaeVAcf2gB5mUV4+rrdTrTxp7v2ItkVDV1K68LK69BqykiPi2bT
+      hb7MmtENG+D/KuxwcLhzGxtsbPLIvQy0r1xzt56V0tJSweVtPKxfaFk627/YRPHA/yRixO2b
+      nuY2NvVs7FhDsqOjY50tDAYDzs7OQopqDVi30Ioc4qJ30WrS+4zuUFOgg0MpOXkV0L56fR65
+      +e54tWr4YloTVl2HXj28hfN9pzOoQ92zsVWvnhR/f5yyquWKnGR+6dSPHg1bRKvDqkf9pUS/
+      yl/SWuFQ42sXyEsfTuB3VJCzdzlf/NyRoIBSfkzS8Px7Uwh0uneeBoOh3ktxNaPnbrJI2RuK
+      7R9MrLFs1UIfhIryUkrLm+Pk4vRAjQqyC7XuOvQBsLF3xsW+sUthPVh1Hap4eJRQyVBCJUMJ
+      lQwlVDKUUMlQQiVDCZUMJVQylFDJUEIlQwmVDCVUMpRQyVBCJUMJlQwlVDKUUMlQQiVDCZUM
+      JVQylFDJUEIlQwmVDCVUMpRQyVBCJUMJlQwlVDKUUMlQQiVDCZUMJVQylFDJUEIlQwmVDCVU
+      MpRQyVBCJUMJlQwlVDKUUMlQQiVDCZUMJVQylFDJUEIlQwmVDCVUMpRQyVBCJUOMUKMBg0lI
+      zor7IEboD1EEhzzLtAUxHM40oNw2HGKEBs8nccsyJnU5z7qZoQwIeZkFMYdJ1xuFhFPcRlAd
+      qsHRI4Chk/+btXsPsH/dVGxj5zBx8EBCXl7A5lS9mLAKkTdFJgyZh4lZMJWwF+eR4PAcry//
+      lm/f7ML3705hTZq4yE0ZMS/iObuOaa+vJfV6a/q9MJ2V20MJaGtXlejHnAm7iDyRzcyunkLC
+      N2XECC13oOe761kV4oNjPRF8p20mRkhghZhLbnkuB04X1JJ5jOWjPiFJ3fIKRYzQGyXklNyo
+      tVKD6VoK57KFRFRUYeFL7lm2Lfk7v+SkQk4hS5Ycvp1UkMJ39OEzVW0KpeHeTtj5eT5+50X6
+      PfbvQ7RuLHx4/Rkzbx5jji3nWFIQ8+b0t2z2ivsi7jn0QBLHhGWuuBtihHbvQ+8bu9mVqFqE
+      GhoxQu0Dmb3yVYyfvM7q5EsUFhZW/dOjWnPFIuYW5Yf/4fm3dlZ+njWGdbcSwliWHEmwkKAK
+      ECU0OJLk5EghWSvujRqxIBmChJrITfiQac8OQKfTsTARTMc/IvSPeygTE1BRhRChph+XMyWq
+      mLGf7+DbV/0B0PQbxtDkvRxSRoUiRGj26RTcJ73GSD9XHG2q17rT1iOPy4UiIiqqESLUvb0n
+      F1JTKbqjZ8WUsZ+9GX74qLZcoQi5y3UaMov/+m42YcO+xI0i9LZhJJaaCHjvK4JVW65QxBxe
+      jS/jVu5kRGYKSedLABc69+uFn9buvrsq/jXECDUaMdrZ4eijY6iPkAiKuyBoXO4SBoaM59Xl
+      W0hOV819DYmgcbnz2PP1ewxyOM5n/xGq5DYggm5R7ND66Qj30xE+y4Qh9zeS4qKJnLid8Vs3
+      MNlbTFSF6BELxgJOJ8ax4x+x7DuZDd3H4tfy4bOp0Kdx8Gg5utBetLpj/YXEGA5k3rHCtTdj
+      RtXcpqkhaFzuNt6J+pxjqaVouj/DhPBFbFzaDY/6xnTei5sFnNj0FTuKvWjXvB2/qyE0j19S
+      W9DnpeF4Va+ysecRvi9SIewM9Ru7jLdXPYLEO8nNgdAIFre9Qlz0yVqJl8k3tSfIxaVJn5G1
+      ESPUfwyz/MGoTyc5/n8pcelMnx6dcX1YuZ0C6Xu3tMu5lLTtpGTWQtAZqidx8SQidpXh1sYZ
+      m4pSLhc58VzURuYHay0Twqyh2akY3n8f0Ghwcg1gxCvj6eN+q/EYg8FQ766lpaWWKYMVUPtv
+      ESLUdPxzFp0cwIo9EfSt8mdM+4qpk//MnviPCXWyQJC2g3nzw8G3Fiv0J4he9R1t5o6mU9U6
+      R0fHOrsZDAacnZ0tUADroPbfIqa35cwpXIePvSUTwK5rKM/6ZpMnqLfFRtuXfu0yybomJv/H
+      BSFCPX38yDl0kLQ7WhFMGQdJuOBJe3fLxLiacxF9xR0rKn7ldJYH7Zv4ba6QS64m+G2iDk1i
+      8pC/08bVHiin+LIdfd5ZwZCHuNxeTd3BtpPFwHUuZVwhK6YAB1zpPWYUXW+cIXpxNDc8fWht
+      Z+RKZildXpnJEyL+oMeIZmaz2Swm68oWopO/5HEdF7oEBeLzrzzC3IWbZSWU3bTFycUJ2wfY
+      3mAw1Fu3VjN67ibLFa4B2P7BxBrLFj7CJnITPmHep0cpBNwDZ/Den0bRVWCvma2TCy7isn/s
+      sGwdmhbNa/N+wuelCBYseIP+xauZtSRRDQxrQCx6hmafSOLC4NlsCX8GDaBrk03ixEP8HBlM
+      kCUDKe6KRc9Qk8mEf9cut78l3j743TSpeYoaEIvfpejPHSU+/lzV0hlyyOHn+PiqftD29Boa
+      QFtLB1XcwqJCNU7uNEvdyIrUO1Z2gH0rVrAPgBDmKaFCsahQz/GfsWO8JXNUPCzqty2SoYRK
+      hhIqGWKEnt1DTPxpctWkuQ2OoA7u65zaGMFf5heBW3f6jBzOxKHD6NHZtd6p4hSWQ9gQlKVr
+      xwBG9OmpHDqyl7V/+oZTWQOIOjpftRoJRGgdatQXcCE/g+xzlygoAm13L1qLDKgQdIYeW07Y
+      /Djw6sXQgQMZMOUjpv1Zi/qpknjEnKEuLrSzhZv5RWRfv86Ncj3l6jcQDYKgOnQqa3dOBaOe
+      9NRDHNn3KdERZ8h3fp4PNs3m34QEVUADPIfa2ztUfTJQlFWo+kYFI26K8rfWcya/FI1bL/q/
+      MJzpUW/Tu5sHdx/8obAEgp4KuzB87koW+dlScOoiJS6d6eHbRj2DNgCC6tBA2m+ZxIR3BI6c
+      V9TL4ztyXlEv0oycV1Ty2I6cV9SPVY+cVzw8gu47tQTP38b+GeJHzitqIvAIV77Q7hmPAHEh
+      FHWwoNACTsenknfPbdQwTtFYUGgm+1as4MA9t1HDOEVjQaH9mbNjB3Msl6HiEVCDxCRDTVEu
+      GWqKcslQU5RLhpqiXDLUFOWSoaYolwyxTX8+Oob6GNEX6qnQqCekhsCyR9mUwYZZITyt0zHg
+      xeUc1+ez592RDB4+nGFDxrBYvX5SOJadYyEphlUFw/l4227WhV9idcQi1ttFkJD8A3vn+rNr
+      zT/JsmRARR0sKjQ7Mx33ISMZ4OWO39hJBJxNoVvYYLRocBs8hKCzGUqoYCxeh2pbVvdgu9PW
+      wxeqH1OcWjb52aYbAoGzoBRyTq+Ho/FUTopyhhxLB1PUQewsKM2awcYV3JoUpUMILSwZUFEH
+      NQuKZKiHQ8lQQiVDkFAj+sJiKufMMJGbEkts7BHOqXYF4YgRmraOKW/u4LKmqm/09Y0cOrSK
+      aVPWkCYkoKIaIULL0tO4GdQXb+DnhDg6/uFTli5dwlTbRI6qlgWhCBHawt6ewoJCTKSRfNSJ
+      3j3biQijqAcxP4XoH8ZzURE89yyUesxiUw8g/wRJhiDeUm8mFIqY7jOnIObH7qRQb8RO644W
+      KDN4M3XZCHoICaioxoJCK/s9a092YtQXUgjg7Ic/YAQ1vY1A/h99U6X4JDzcCAAAAABJRU5E
+      rkJggg==
     </thumbnail>
-    <thumbnail height='192' name='Chicago City Crime Analytics' width='192'>
+    <thumbnail height='192' name='Average Student Attendance Community wise' width='123'>
+      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
+    </thumbnail>
+    <thumbnail height='192' name='Chicago City Crime Analytics' width='169'>
+      iVBORw0KGgoAAAANSUhEUgAAAKkAAADACAYAAAB/LkO9AAAACXBIWXMAAA7DAAAOwwHHb6hk
+      AAAJRElEQVR4nO3da1BU5x3H8R+6ENy1GzWLwUtELFpLICPFGGPHpKQGFavGNG2scSyRF5ob
+      Ruy0TtPE6bSMkkooXjohU7GMQ0ZG0jYS09GsGsAoIFY02lJEdkhRUDaAq3uIy2FOX+Bl41jT
+      tfuwf05+nxlf8LC7z9nx657znD27hhmGYYBIsEGh3gCir8JISTxGSuIxUhKPkZJ4jJTEY6Qk
+      HiMl8RgpicdISTxGSuIxUhKPkZJ4jFSa1oPYmv0n1Hj8B3WcLs1GvrMlRBsVWoxUmlHJiO0o
+      wOsFx6BfH7vwPrbkt2Bs4thQblnIMFJx7EjLXAlHyVsobgYAHTXbt+LC4lew8P5rN9E7UP9J
+      GcrKnKj9t+/aoA+exlo4nU44nbVwaTcSh8/jRqemA7oGV20VXN5+fkr/J0YqUcxzyHrWjaLC
+      Cnibi5G/byZeTY+HBQD0JhRlLMTrH3QA3UeQs2Rp330qcrBwbSE+rq5GdVkOlsz+JfZeO2So
+      yp2Dl3f9AxW/WYQfrdyMCneonthdMkimS3uMrOmLjGXLUo2VpW03hq/syTKSM3cbl6793LYz
+      w7hiGEZPT4/fnduMnRnJxhvlfT+Vv5FspKTOM5Zv+bvxuf/NBghLqP+R0H9hT0PmymL8sPRx
+      FN7YzwPNrgZEWZNQ43T2DXhsmAggRnOhbFseig+2QAPwRSfwqN/D2R57DXkvJcHen88hSBip
+      YDGxcYB9GO71+1uKHGJFt9Z9cyB2PhzwYu9vl2FnXCEK//xtWC1Axbqp2O/3WPaxowdkoAAj
+      HXDGJSRhUEkLBq17Hk+MsAC6hs/RjrZzQ5D4zERYLYDecRzHGwF8P9RbGxyMdICxTHsRG+as
+      wJrUFGwYbUdPp4bSyoP43oJYLF31JCqjwtFjm4snRoZ6S4MnzDD4keYBSdfQ2aXD5rAj4tqQ
+      z+OGB3Y47BF3vOtAw0hJPJ4nJfEYKYnHSEm8Ab+61zTttuO9vb39vCWkiikXTpqmwWq1hnoz
+      KEi4uyfxGCmJx0hJPPELp57OJlSXV+LsJQD3xmPuvIcxMjzUW0X9SfbC6cxfsH5fJJ5anIJJ
+      94Wjp/UQCkuu4ulXUxF9h7tx4WQuoiP1eb0Is9ng/8JZt20bkJGBKXe4HyM1F9HHpBG3BNrr
+      PoCPL38T40K2RRQK4o9J+/TCfWwH3j44HItfWIgRod4c6lfyI+1148gf38bRcT9G5upJsA8O
+      9QZRfxMeqRd1O7bDNXM1MuNtod4YChHRx6Sofx8f2p/Bswz0a030K2mbqxGthz/Fr476j0Yj
+      NWsVUqJCtVXU30SfgrpbPAVlLrJ390RgpDQAMFISj5GSeIyUxGOkJB4jJfEYKYnHSEk8Rkri
+      MVISj5GSeIyUxGOkJB4jJfEYKYnHSEk8RkriMVISj5GSeIyUxGOkJB4jJfEYKYnHSEk8Rkri
+      MVISj5GSeIyUxGOkJB4jJfEYKYnHSEk8RkriMVISj5GSeIyUxGOkJB4jJfEYKYnHSEk8Rkri
+      MVISj5GSeIyUxGOkJB4jJfEYKYnHSEk8RkriMVISj5GSeIyUxGOkJB4jJfEYKYnHSEk8Rkri
+      MVISj5GSeIyUxGOkJB4jJfEYKYnHSEk8RkriMVISj5GSeIyUxGOkJB4jJfEYKYnHSEk8Rkri
+      MVISj5GSeIyUxGOkJB4jJfEYKYnHSEk8RkriMVISj5GSeIyUxGOkJB4jJfEYKYnHSEk8Rkri
+      MVISj5GSeIyUxGOkJB4jJfEYKYnHSEk8RkriMVISj5GSeIyUxGOkJB4jJfEYKYmnKFIfPO5O
+      aDoA6GitK0NZ2Sc441EzG5mbmkgbtiN91W60WwD9WB7SX3kX5eVbsDy9AA1KJiQzUxKpt7EB
+      PTMeRgyAEwf+hgde/j02bszG8+EVONKsYkYyMyWR3hMZCfdFN3Q0oPaIDUmJ96uYhr4mLEoe
+      9JF5SMv5BdJSgcujVmJnPIALR3FYm4GsGBUzkpmFGYZhKHlknwdujw8RdgfsEYDXVYU6PR7f
+      nWhXMp0/TdNgtVqVz0P9Q83CqToPC7b+Ew5HX6AAYIsNQ82aAhzWlcxIJqYm0qtdON919ZZB
+      C/QrdThzTsmMZGJBPib9F/6aXYrT508C593Izq68+auLdfgAycgfE9wZyfyULJxua/wP8ObP
+      foJp/TcjmYSahVN1HhYcnoHdqx8J+kP/L7hwMhd1q3tdQ2eXht4vDUbA7rAjQsmENzFSc1Gz
+      820uQcbS3+FE962/mIe3an+Nx5RMSmalJNJzhz7Eie+sw4H8+VB/VpTMTskpqDGTE2AfagN3
+      uBQMas6TJs7FosY9KGtxw+32/+OBT8mEZGZqjkmrdqHobDnwVPktv+AxKQVO3eo+hLi6Nxd+
+      fITEUxSpjtYD67E8dSamTp2KdRWAXrMBs3++F141E5KJKYlUP5aH9JxOLPrDbux48VsAAMu0
+      JzGrdh/KWSkFSEmk507VwbHkJcyPGw7r4OujDowc1YZ2t4oZycyUROqIHoPPTp5Eh9+1o3rT
+      fuxrikMsr4KiAKlZ3etNeG/1C9h4yoIR6IAnfAQsl3UkrH0Hmxeq//wIV/fmovAUlA7NVYfD
+      Z7sADMP4aQ8hzq760pI+jNRcghipD56vfEeJV0FR4IL4jlMVcudkYc8db8N3nChwanb3DQV4
+      uuAB7MhNg+36WHMRfropCptz05RfGcVXUnNRsrrvdjXis6FDbwYKADEz8XhLCcr4QTwKkJJI
+      h0SPxn2Ve/GR3zkoX4MT+89aERmpYkYyM0Wrew9q8lZgTXELhowejsjey2i/oCN+dREKnpug
+      /NN/3N2bi9KroHyeFjR8Wo82RGNy4iSM5Skougu8VI/EC+qe9+IpJ5psj2K6zQXnybbb3CIa
+      D81KwMhgTkqmF9RI63etRcGE9zB98kfYtOngbW6RgtcYKQVI0Xv3Gjq7dNj8313yeeD2WjBs
+      uJULJwqImouea3KRtv4QevzHeg5hfVoOv1WPAqYk0uYz9XBMGP/lk/m2yXhwXCNcPJlPAVIS
+      aUzCFHh3l6DC738b8VQUoaR9ChL4Tc8UIDWHh8krsGFWBlbNTsGIqG9gML5AZ3sEUnPeRbKS
+      CcnM1F5P2lqP46fb0D0kGg8mTcYoa/987yMXTubCk/kknrqXthB+9SOZC7/6kcTjVz+SeP8B
+      xl5MjUMSEWwAAAAASUVORK5CYII=
+    </thumbnail>
+    <thumbnail height='192' name='Hardship Index to Community Area' width='192'>
       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
-      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
+      AAAMf0lEQVR4nO3dSWyc533H8e87+wx3DsVdFEXtkm3VSZ1GjtEgKYr24kPSAkHQAE3gBEHR
+      Q4Eu5957LdAWSIOiQJueirQJ4ENSFGjrDZUl2Q5l7ovEVSSH2wxnhjPzvk8PapQ4ljQztl6+
+      L/n8PicdSL5/iPPlPO/Ch44xxiBiqUjQA4gESQGI1QINwPO8IA//RJqrOcd5rkADcF03yMM/
+      Ua1WC3qEx9JczWlkLi2BxGoKQKymAMRqCkCspgDEagpArKYAxGoKQKymAMRqCkCspgDEagpA
+      rBbz5auaPG/85x1SXe2MXbjEzr0JNvJlBs5f58ypFhxfDirSPF8CMPsbmO4RLpw/RcYpspTI
+      cuPz/dy+Nc1Iz3P8/JfQjDGhfJRWczXnOM/lzztAqpfu+CLzsxtkUlliqQQ4cTy3BPziOW1j
+      TCgfifY8T3M14TjP5UsAlZpLprWdRLGGm4hT3NzgHnmi7YM4jkMs9vCwxhji8bgfI3wqmqs5
+      x3kuXwKIJ9O0pMuYlhGy2W6qve3sF6tcPZ3V+l9CxZcAIrEkvX39vzhIWyfpNj+OJPLp6DKo
+      WE0BiNUUgFhNAYjVFIBYTQGI1RSAWE0BiNUUgFhNAYjVFIBYTQGI1RSAWE0BiNUUgFhNAYjV
+      FIBYTQGI1RSAWE0BiNUUgFhNAYjVFIBYzbcAjDF4rosBjOdRq7mP9gQVCQvfAqiVtvnJv/+U
+      fa/KzPgd7ty+yfx6HiUgYeLT9ug1piYX6TvVSbW4Rzndw0vPD3D71gSm/4WP7A59XDdVDYLm
+      ak5gm+Nuzf+M9ZKDs7VOaquPaDQGThTPrQB8JICwLos0V3OO61y+BNDSd5Zr6SILextkOtrZ
+      nJ5j+jBHrHMIx3GIRKPAw0J/vlN0mGiu5hznuXyZOt3aSbq1g55slmgywcD1NMVyjZa2Vu0O
+      LaHiY7YO8WQSgEQqQyLl35FEPindBxCrKQCxmgIQqykAsZoCEKspALGaAhCrKQCxmgIQqykA
+      sZoCEKspALGaAhCrNRbAwRbvjs9RKee59eZNCj4PJXJUGgsg1UZx6qf86Z//JavRTtI+DyVy
+      VBp8B8jxID7GX/zZdzGr85R8HkrkqDT0CzEmFqO4Ps+/be9wsTWB66GzBzkRGnoZV3aWiZz+
+      DIOtLpVCnlLN77FEjkbdAIzxiPZd5Upyg+1ckY7rN+hLHMVoIv6rG8DO6hT/8vff4yfvzhKN
+      GD54+xbFo5hM5AjUDaB76Ap/8PtfovfSDV577Vtc7KiSPzyK0UT819A5QKTrPGfNHH/zt3/H
+      XucYWS2B5IRwTCNbehlDqVigdFglGkvS1t7yTC4CVatV4vH4M/hKz1alUiGRCF/lmqs5jczV
+      0GXQ6uZd/ur7/8HF0T7SrUP8zqu/+fSbYcZwWC7hOTFSyQTGrVCquKTTKSKOtsaS8GgogHim
+      jd6efi5fuUwi2V73k2rFXe6t5qiVd8n0nKO8sUAFj1T2HBeGu7Q7nIRG3QC8apnV9X16Ox0m
+      JyZItQ4xdmWMpy1cYi1d9HYWWdvYxz3Yp9rSwwvnBrh96y5mqBPP8x5+bc+jVgvfTQXN1Zzj
+      PFf9ACpFJmcWiMQSpGKQTDa2Zo/F45gauPEqTiwJTgTPfTiM8//LIMdxHv07bDRXc47rXI2d
+      BDepuL3K9PI25jBPKjvMwYNlkukIXusoL5zve7QE0klwczRXc57ZSTDGkN9+wOpWnv7To3Rk
+      nv6iTXf2cyXThXGiJBJxzEg/lZpHMpnQ+l9CpaGrme7uDH/9/R+yvrbIP37vn8l7T/94JxIh
+      mUqTSiaIOA7RWJx0KqkrQBI6DQXgRKK0d3XR2tZJm7fL7fFJyuE75xFpWkNLoEi6j1d+/QLV
+      msdzr3yBmOPpj93JiVA3gFJuiZmVLaYnJyge1ki3nebV33tJvxUmJ0LdJVCyo48Lo4PUCrts
+      bm6S296jzimAyLFR9x3AicaJHqxRHvgcf/KHvwZO5Kk3wUSOk7oB7KxM8KPX32RxKcc/rLxH
+      pn2Er379d2k5iulEfFY3gO7hq3zztbOsbh3i7S6wUm5Df+9OToqGrgK5WzP8113D4ezbdCQy
+      rF86z5AqkBOgscugXcMkVn9I9oUv01pYoyN8d71FPpG6AWwvf8iPX3+DsjFsvf/fpFqHua4t
+      UeSEqPtS7hq6wje+8jKZM7/Bd779TQZSJQ6rRzGaiP/qBuA4DtH2QdyFt/inH/yA6VyNhN4B
+      5IRo7GnQWoWe85/h5c9eor2zk5gCkBOisQAiEabe+DE7+S2GsgO8/MXP6lKonAiNBRDv4Gvf
+      /i6uZ4jG0g1+kkj4NbY5bnWP13/0r2xuH5LqGuaP/vgbxPRov5wADQXg7a/RdvWL9OXu01Ir
+      s1eFjO4FyAnQUADRUxf5wrkChfQmk7u9dOtpODkh6gZQK+7w5lvvsF+sQiRCe0sco+WPnBB1
+      L2hG4ilGzp4jnhunkDnL2TODOgmWE6P+FX0nQjrTQiqZIJnJkMkktbODnBh1A/AOC9y5+Q7r
+      ziCHi//LzVuTVI5iMpEj4MvGWI3SxljN0VzNeXYbYzXJq5ZYur/EQS3CmdFRDreXWHxQ4Nyl
+      y3Skw/eCF3v58lSPV6uS6RlmuDvCvfl7LG5WuHZxgNnp+wT3fiPycb68A8TS7STzS0wt5zl/
+      up+1gyrJTBYqc3iM4VUf7qrlui4BrsCeKIw7HYPmalYjc/kSgFtYZ2KlyIvXnydW2WVufR+v
+      tocb6SCCQ/SX1v1hPAcAQrmmBc3VrHpz+bIEOixXKO6v8fYbb7GUjzLU6nL7vQXOXR5D11Al
+      THQV6DGO81WNIBznufSrLWI1BSBWUwBiNQUgVlMAYjUFIFZTAGI1BSBWUwBiNQUgVlMAYjUF
+      IFZTAGI1BSBWUwBiNQUgVlMAYjUFIFZTAGI1BSBWUwBiNQUgVlMAYjUFIFbzJwDjsr40x+Lq
+      NhiPjfszvHvrPXIF/WUBCRd/AqiUKTuwv72PV95nZR+uP3eGxdl72h1aQsWfP/eVbGFkoJeJ
+      vRxupUaqNU082QmVaTyMdof+hDRXcwLbHdoYg+u6eJ6Hk4hQ2DugWt7GjXVpd+hPSXM1J5C9
+      Qb1ynrm5FWq1AlulOKPdUcYnV7l45SyOdoeWENHu0I9xnHc7DsJxnkuXQcVqCkCspgDEagpA
+      rKYAxGoKQKymAMRqCkCspgDEagpArKYAxGoKQKymAMRqCkCspgDEagpArKYAxGoKQKymAMRq
+      CkCs5s++QL/MuCxMfMD6Xpmhi9c5nc2gjSEkLHx/B3APdtmPdXPj8y+ytTCvneEkVHwPwPMM
+      8XgUnASeW/T7cCJN8X0JFEslOdhaYiV6QKRtQBtjSaj4/g7gJFq5enEEou1cvTCo9b+Eiv8n
+      wTi0dGRp6fD/SCLNOoIAPsoY82jXXtd1j/rwDfE8j2q1GvQYH6O5mtPIXEcegOM4H9kPNIx7
+      g4LmatZxnSvQG2FOSM+INVdzjvNcge4OLRI0PQohVgs8AK9ywIfjdzmohuONaHdjmcnJSVY2
+      94Ie5ZFyIU+pWgMM+dwqU3PLuEH/dxlDfmeXGkC1yOzMFFPTc5QDvq5haocszk6xuVcCDBtL
+      cyyu5Z74BELAARgm7n7I4OgIH9x+j6C/pwBz91cZHh4m254JehQAijur3Pyfd3lQLOK5BSbn
+      cmSTZWbuPQhuKGNYXZjg1s2fUQLya8uUU10MDQ0QD/gVtbq8TNfgCBvTH7K+tcxGKYHJLbKW
+      P3zsxwc87iGe00ZbaxtpxyUMF9JK22vceX+cXKEc9CgAZLoGef7yKFEHzMEGyZ5Rst1d7B8c
+      BDeU4zA4dpXR/oc3d0rVCqvT40zOL+MF/FNs6MwY3v4ahWgrplSgO9vL6EAbK7nHfz8DDiCK
+      5x7ieYaq8Y7+muzHeNz4rVd55XPXWF64hxf0OL8qlsAtF6lVa8Siga9eH+kZvcJvf/lLjCV3
+      mN8Jdg20dX+Ke3sxXnrxElEnSq1aoVSqkEpGH/vxAb/m4pzqjDL+/h1SPaeDrhHwmHr/DiUP
+      2npGQjAPHOysM7e2RmVnh9bL14gd3OaD2STD568GN5QxrN2fYXV7m/3ZRQZbYGElh+dGuDb2
+      +BfaUVlaWWKvmuCdnRzPXTvL8tQU616Uay+mH/vxIbgManBdQzQkP9GMMXheeOb5VcZ4GAOR
+      SLjm8zwXnAiRkN0TMJ6HcZwnzhWCAESCE64fIyJHTAGI1RSAWE0BiNUUgFhNAYjVFIBYTQGI
+      1RSAWE0BiNUUgFhNAYjV/g8ZQA8JUOzLLwAAAABJRU5ErkJggg==
+    </thumbnail>
+    <thumbnail height='192' name='Per Capita Income of Each Community' width='192'>
+      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
     </thumbnail>
   </thumbnails>
 </workbook>
