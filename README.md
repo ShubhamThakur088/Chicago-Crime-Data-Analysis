@@ -3,6 +3,11 @@ Such correlation helps understand the ground situation of communities in Chicago
 
 Following are the XLS files used in tableau to establish relation between indicators:
 
+##Tools Used
+Tableau
+MS Excel
+
+##Data Sources
 [ChicagoCrimeData_Xlsx..xlsx](https://github.com/user-attachments/files/25063437/ChicagoCrimeData_Xlsx.xlsx)
 
 [Chicago_Public_Schools_-_Progress_Report_Cards_(2011-2012)_20260122_excel..xlsx](https://github.com/user-attachments/files/25063439/Chicago_Public_Schools_-_Progress_Report_Cards_.2011-2012._20260122_excel.xlsx)
