@@ -5,16 +5,17 @@ Following are the XLS files used in tableau to establish relation between indica
 
 ##Tools Used
 
-Tableau
-MS Excel
+-> Tableau
+
+-> MS Excel
 
 ##Data Sources
 
-[ChicagoCrimeData_Xlsx..xlsx](https://github.com/user-attachments/files/25063437/ChicagoCrimeData_Xlsx.xlsx)
+-> [ChicagoCrimeData_Xlsx..xlsx](https://github.com/user-attachments/files/25063437/ChicagoCrimeData_Xlsx.xlsx)
 
-[Chicago_Public_Schools_-_Progress_Report_Cards_(2011-2012)_20260122_excel..xlsx](https://github.com/user-attachments/files/25063439/Chicago_Public_Schools_-_Progress_Report_Cards_.2011-2012._20260122_excel.xlsx)
+-> [Chicago_Public_Schools_-_Progress_Report_Cards_(2011-2012)_20260122_excel..xlsx](https://github.com/user-attachments/files/25063439/Chicago_Public_Schools_-_Progress_Report_Cards_.2011-2012._20260122_excel.xlsx)
 
-[Chicago_Census_Data_XLS..xlsx](https://github.com/user-attachments/files/25063430/Chicago_Census_Data_XLS.xlsx)
+-> [Chicago_Census_Data_XLS..xlsx](https://github.com/user-attachments/files/25063430/Chicago_Census_Data_XLS.xlsx)
 
 Average Student Attendance for each community
 <img width="1365" height="617" alt="image" src="https://github.com/user-attachments/assets/dd9de242-9384-43e7-900e-c00dc8179a0d" />
